@@ -1,6 +1,6 @@
 using TinyResults.Base;
 
-namespace TinyResults.ExtendedErrors.Web;
+namespace TinyResults.Errors.Web;
 
 public record NotFoundError(string Description) : Error("404", Description)
 {

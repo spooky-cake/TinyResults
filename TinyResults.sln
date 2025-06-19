@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyResults", "TinyResults\TinyResults.csproj", "{4DF4190F-3EC2-42E3-A813-CB8F1C363A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyResults.ExtendedErrors", "TinyResults.ExtendedErrors\TinyResults.ExtendedErrors.csproj", "{C842BDAA-F71B-427B-A929-161FBA361E31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF4190F-3EC2-42E3-A813-CB8F1C363A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF4190F-3EC2-42E3-A813-CB8F1C363A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF4190F-3EC2-42E3-A813-CB8F1C363A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF4190F-3EC2-42E3-A813-CB8F1C363A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C842BDAA-F71B-427B-A929-161FBA361E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C842BDAA-F71B-427B-A929-161FBA361E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C842BDAA-F71B-427B-A929-161FBA361E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C842BDAA-F71B-427B-A929-161FBA361E31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

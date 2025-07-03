@@ -5,7 +5,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <RepositoryUrl>https://github.com/spooky-cake/TinyResults/</RepositoryUrl>
-        <Version>0.1.1</Version>
+        <Version>0.1.2</Version>
         <Title>Tiny Results</Title>
         <Authors>Spooky-Cake</Authors>
         <Description>Smol result pattern </Description>

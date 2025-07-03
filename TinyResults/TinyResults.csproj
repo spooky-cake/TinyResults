@@ -5,12 +5,12 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <RepositoryUrl>https://github.com/spooky-cake/TinyResults/</RepositoryUrl>
-        <Version>0.1.0</Version>
+        <Version>0.1.1</Version>
         <Title>Tiny Results</Title>
         <Authors>Spooky-Cake</Authors>
         <Description>Smol result pattern </Description>
-        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
         <AssemblyVersion>0.1.0</AssemblyVersion>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
